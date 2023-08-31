@@ -1,0 +1,17 @@
+/Users/hans/hans/code/PatientReg/obj/Debug/net7.0/PatientReg.csproj.AssemblyReference.cache
+/Users/hans/hans/code/PatientReg/obj/Debug/net7.0/PatientReg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hans/hans/code/PatientReg/obj/Debug/net7.0/PatientReg.AssemblyInfoInputs.cache
+/Users/hans/hans/code/PatientReg/obj/Debug/net7.0/PatientReg.AssemblyInfo.cs
+/Users/hans/hans/code/PatientReg/obj/Debug/net7.0/PatientReg.csproj.CoreCompileInputs.cache
+/Users/hans/hans/code/PatientReg/bin/Debug/net7.0/PatientReg
+/Users/hans/hans/code/PatientReg/bin/Debug/net7.0/PatientReg.deps.json
+/Users/hans/hans/code/PatientReg/bin/Debug/net7.0/PatientReg.runtimeconfig.json
+/Users/hans/hans/code/PatientReg/bin/Debug/net7.0/PatientReg.dll
+/Users/hans/hans/code/PatientReg/bin/Debug/net7.0/PatientReg.pdb
+/Users/hans/hans/code/PatientReg/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/hans/hans/code/PatientReg/obj/Debug/net7.0/PatientReg.csproj.CopyComplete
+/Users/hans/hans/code/PatientReg/obj/Debug/net7.0/PatientReg.dll
+/Users/hans/hans/code/PatientReg/obj/Debug/net7.0/refint/PatientReg.dll
+/Users/hans/hans/code/PatientReg/obj/Debug/net7.0/PatientReg.pdb
+/Users/hans/hans/code/PatientReg/obj/Debug/net7.0/PatientReg.genruntimeconfig.cache
+/Users/hans/hans/code/PatientReg/obj/Debug/net7.0/ref/PatientReg.dll
