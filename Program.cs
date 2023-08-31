@@ -53,8 +53,6 @@ namespace PatientRegistrationApp
             }
         }
 
-        // ... (Other methods and class definition remain the same)
-
         private static void RegisterNewPatient()
         {
             Console.Clear();
